@@ -1,0 +1,3 @@
+.ticker { text-align: center; height: 30px; }
+.ticker img { vertical-align: text-bottom; }
+.ticker-div { padding-top: 4px; margin-top: 11px; position: absolute; z-index: 999; left:0; width: 100%; }
